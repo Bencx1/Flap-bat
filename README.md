@@ -1,2 +1,2 @@
 # Flap-bat
- Jogo em em scratch
+ Jogo em *SCRATCH*
